@@ -1,37 +1,37 @@
-# -dsgn270-a1
-
-
 # DSGN 270 Assignment 1 - Agile UX Breakdown
 
 
 ## Instagram storisdown Agli UX Brakedown
 
-
 Instagram website is social media and you can use with company like web developer or selling in to company. 
 
 ### User story
 
-- You can loggin or make account of instgram for customer, and customer can sells pruducts.
+- Who I will be make this for is not sure who's yet but for value it should be very good at selling some products. 
 
-- You can post picture of product in company and its easily to intrudce about buisness of customers. 
+- Secondly, If you using this website, the value has lots of people see this images and make interesting. About Instagram users are mostly posted on instagram and people can see the company to sell it. 
 
--  You can add some friends or customer and share about your story or business your doing for customer. 
+- You can check more detailes of this website: [storisdown](https://storiesdown.com/)
 
 ## take flow
 
-about: The instagram is app mobile phone too but its really fresh to me. 
+### How to use instagram:
 
-- they have simple navigation.
-- Productly easily to see.
-- colorful theams and have search box in it.
+1. Login or create accout when they gave you instruction.
 
-![Screen Shot 2022-01-20 at 2 18 39 PM](https://user-images.githubusercontent.com/56320722/150431539-f3286b2b-0641-4470-a6e0-d6058334f499.png)
+2.  After login, there is button with + sign on right top beside heart.
 
-- This is I choose website.
+3. When you press + sign they gave you option you want to live or just post images or post on story but I recomend press post and edit your posts of pruduct and post it.
+
+4. After your done set up the privite and customer can see your post.
+
+
+
 
 ## Wireflow : 
 
-![Wire frame](https://user-images.githubusercontent.com/56320722/150438017-756eb565-0341-4955-b3ee-9fd7f979bfd4.png)
+![TASK FLOW(1)](https://user-images.githubusercontent.com/56320722/153695195-fb8f57be-1a5e-4d37-a46e-c35dc6c3f535.png)
+    
     
 
 
